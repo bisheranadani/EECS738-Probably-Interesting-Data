@@ -17,3 +17,5 @@ programmatically
 supporting files to the git repository in GitHub
 
 The two datasets we chose were the iris dataset and the auto-mpg dataset. To use machine learning to model the data, we decided to implement the K-means algorithm, and then test the algorithm on both datasets. For each dataset, we performed basic feature engineering through heatmaps and histograms. In doing so, we could select attributes that would work well for clustering the data using K means. Further documentation can be found in the Jupyter notebook.
+
+Using http://benalexkeen.com/k-means-clustering-in-python/ as a reference for K means implementation
